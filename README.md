@@ -1,6 +1,6 @@
 ## 𝓘𝓽'𝓼 𝓜𝓸𝓱𝓪𝓶𝓶𝓪𝓭 𝓐𝓶𝓲𝓷 𝓢𝓪𝓮𝓲,
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AminSaei&theme=midnight-purple&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AminSaei&theme=highcontrast&show_icons=true)
 
 ### Languages:
 
